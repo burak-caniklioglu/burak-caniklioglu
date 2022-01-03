@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **HTML, CSS, Javascript etc.**
 - 📫 How to reach me **burakcaniklioglu@gmail.com**
 
-
+<p align="right">![](https://komarev.com/ghpvc/?username=burak-caniklioglu)</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/burak-caniklioğlu/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="Burak Caniklioğlu" height="30" width="30" /></a>
