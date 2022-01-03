@@ -32,6 +32,7 @@
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burak-caniklioglu&theme=radical)
+![](https://komarev.com/ghpvc/?username=burak-caniklioglu)
 
 <!---
 burak-caniklioglu/burak-caniklioglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
