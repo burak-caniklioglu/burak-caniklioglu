@@ -31,7 +31,7 @@
 
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burak-caniklioglu &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burak-caniklioglu&theme=radical)
 
 <!---
 burak-caniklioglu/burak-caniklioglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
