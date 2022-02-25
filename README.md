@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in Fullstack Software
-- 🌱 I’m currently learning **HTML, CSS, Javascript etc.**
+- 🌱 I’m currently learning **Sass, Bootstrap, React.js etc.**
 - 📫 How to reach me **burakcaniklioglu@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=burak-caniklioglu)
