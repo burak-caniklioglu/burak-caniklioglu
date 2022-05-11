@@ -35,7 +35,7 @@
 
 <h1 align="center">Don't∞Break∞the∞Chain</h1>
 
-![gitartwork](gitartwork.svg)
+
 
 
 
