@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">A Software Developer</h3>
+<h3 align="center">Jr. Frontend Developer at GoArt Metaverse</h3>
 
 
 - 👀 I’m interested in Fullstack Software
-- 🌱 I’m currently learning ** React.js, Node.js etc.**
+- 🌱 I’m currently learning ** React.js,Next.js, Node.js etc.**
 - 📫 How to reach me **burakcaniklioglu@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=burak-caniklioglu)
