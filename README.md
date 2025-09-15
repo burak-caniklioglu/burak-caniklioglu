@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">Jr. Frontend Developer at GoArt Metaverse</h3>
+<h3 align="center">Frontend Developer at GoArt Worlds</h3>
 
 
 - 👀 I’m interested in Fullstack Software
