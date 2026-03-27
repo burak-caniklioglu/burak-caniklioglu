@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">Frontend Developer at GoArt Worlds</h3>
+<h3 align="center">Frontend Developers</h3>
 
 
 - 👀 I’m interested in Fullstack Software
-- 🌱 I’m currently learning ** React.js,Next.js, Node.js etc.**
 - 📫 How to reach me **burakcaniklioglu@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=burak-caniklioglu)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/burak-caniklioğlu/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="Burak Caniklioğlu" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/burak-caniklioğlu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="Burak Caniklioğlu" height="30" width="30" /></a>
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
