@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=burak-caniklioglu)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/burak-caniklioğlu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="Burak Caniklioğlu" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/burak-caniklioğlu/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Burak Caniklioğlu" height="30" width="30" /></a>
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
